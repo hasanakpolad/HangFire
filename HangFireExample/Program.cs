@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddHangfire(conf =>
 {
-    conf.UseStorage(new MySqlStorage("server=localhost;uid=root;pwd=root;database=root;Allow User Variables=True", new MySqlStorageOptions()
+    conf.UseStorage(new MySqlStorage(Environment.GetEnvironmentVariable("MYSQL_URI"), new MySqlStorageOptions()
     {
         TablesPrefix = "Hangfire"
     }));

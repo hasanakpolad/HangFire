@@ -1,0 +1,45 @@
+version: '3.3'
+services:
+  mysql:
+    image: mysql:5.7
+    environment:
+      MYSQL_DATABASE: 'root'
+      MYSQL_ROOT_PASSWORD: 'root'
+    command:
+      [
+        'mysqld',
+        '--character-set-server=utf8',
+        '--collation-server=utf8_turkish_ci',
+        '--max_connections=650'
+      ]
+    ports:
+      - '3306:3306'
+    expose:
+      - '3306'
+    volumes:
+      - mysql-volume:/var/lib/mysql
+    healthcheck:
+      test: [ "CMD", "mysqladmin", "ping", "-h", "localhost" ]
+      timeout: 20s
+      retries: 10
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: '3096m'
+  hangfireService:
+    image: hsnakpld/hangfire:latest
+    ports:
+      - '5000:80'
+    environment:
+      "MYSQL_URI": "server=mysql;port=3306;database=root;user=root;password=root;"
+    depends_on:
+      mysql:
+        condition: service_healthy
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: '1024m'
+volumes:
+  mysql-volume:

@@ -51,3 +51,8 @@ C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\run
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\web.config
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\HangFireExample.deps.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\HangFireExample.runtimeconfig.json

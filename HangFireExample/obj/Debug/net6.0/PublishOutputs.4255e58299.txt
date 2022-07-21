@@ -1,4 +1,6 @@
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\HangFireExample.exe
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\publish\publish\web.config
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\publish\web.config
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\web.config
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\appsettings.Development.json
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\appsettings.json
@@ -6,6 +8,14 @@ C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\apps
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\appsettings.json
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\HangFireExample.deps.json
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\HangFireExample.runtimeconfig.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\publish\appsettings.Development.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\publish\appsettings.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\publish\HangFireExample.deps.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\publish\HangFireExample.runtimeconfig.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\publish\publish\appsettings.Development.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\publish\publish\appsettings.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\publish\publish\HangFireExample.deps.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\publish\publish\publish\HangFireExample.runtimeconfig.json
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\HangFireExample.dll
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\HangFireExample.deps.json
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\publish\HangFireExample.runtimeconfig.json

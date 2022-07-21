@@ -56,3 +56,13 @@ C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\pub
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\appsettings.json
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\HangFireExample.deps.json
 C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\HangFireExample.runtimeconfig.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\publish\web.config
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\publish\appsettings.Development.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\publish\appsettings.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\publish\HangFireExample.deps.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\publish\HangFireExample.runtimeconfig.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\publish\publish\web.config
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\publish\publish\appsettings.Development.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\publish\publish\appsettings.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\publish\publish\HangFireExample.deps.json
+C:\Users\P1864\source\repos\HangFireExample\HangFireExample\bin\Debug\net6.0\publish\publish\publish\HangFireExample.runtimeconfig.json

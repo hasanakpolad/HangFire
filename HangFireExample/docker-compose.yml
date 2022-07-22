@@ -42,6 +42,10 @@ services:
           cpus: '2'
           memory: '500m'
         reservations:
-          replicas: 2
+          generic_resources:
+            - discrete_resource_spec:
+                kind: "replicas"
+                value: 5
+
 volumes:
   mysql-volume:

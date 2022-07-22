@@ -45,7 +45,7 @@ services:
           generic_resources:
             - discrete_resource_spec:
                 kind: "replicas"
-                value: 5
+                value: 3
 
 volumes:
   mysql-volume:
